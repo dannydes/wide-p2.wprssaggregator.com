@@ -1,0 +1,1 @@
+Firefox add-on to allow for wider posts on wide-screens for p2.wprssaggregator.com
